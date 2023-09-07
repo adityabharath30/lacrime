@@ -6,6 +6,8 @@ With this in mind, I wanted to explore the various aspects to crime and arrests 
 1. What is the demographic profile of the victims and arrested suspects of the crime?
 2. Is there migration between the site of crime and the location of arrests?
 3. What is the time trend of crimes committed? Do arrests follow a similar trend or does it lag?
-4. Which are the most unsafe neighbourhoods in Los Angeles?
+ ![Crime and Arrests over Time](timegraph.png)
 
-[Los Angeles Crime Map](crimes_map.png)
+5. Which are the most unsafe neighbourhoods in Los Angeles?
+
+![Los Angeles Crime Map](crimes_map.png)
